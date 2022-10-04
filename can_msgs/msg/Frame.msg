@@ -1,4 +1,4 @@
-Header header
+std_msgs/Header header
 # Message ID supports both extended ID and regular
 uint32 id
 # Is Remote Transmission Request
